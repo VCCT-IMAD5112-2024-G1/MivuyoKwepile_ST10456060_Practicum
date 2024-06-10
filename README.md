@@ -18,3 +18,5 @@ This is the main scren of the app which shows the user the average maximum tempa
 ![Screenshot 2024-06-10 143727](https://github.com/mivuyokwepile/MivuyoKwepile_ST10456060_Practicum/assets/164025079/972ef033-c5c4-4294-af9c-42f671c61561)
 
 This is the last page and it has all of the minimum and maximum tempataures for each day of the week and tells the user the weather condtions of that day. As it is the last page, the user is only given the option to go back to the main screen which they will be able to exit the app from that screen.
+
+Repository link: https://github.com/mivuyokwepile/MivuyoKwepile_ST10456060_Practicum 
