@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WEATHERAPP</string>
+    <string name="app_heading">SkyCast</string>
+    <string name="name">Mivuyo Kwepile</string>
+    <string name="student_number">ST10456060</string>
+    <string name="button1">CHECK</string>
+    <string name="button2">EXIT</string>
+    <string name="button3">View Details</string>
+    <string name="textview">Week of June 10th</string>
+    <string name="textview2">Feels like:</string>
+    <string name="textview3">Min temp</string>
+    <string name="textview4">Max temp</string>
+    <string name="textview5">8°</string>
+    <string name="textview6">23°</string>
+    <string name="button4">BACK</string>
+    <string name="textview7">7-Day Forecast</string>
+
+</resources>
